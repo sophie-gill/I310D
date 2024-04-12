@@ -1,5 +1,5 @@
 def compute_area_of_circle(radius):
-	pi = 3.14
+	pi = 3.141592   #added digits to pi
 	area = pi * radius * radius
 	return area
 
